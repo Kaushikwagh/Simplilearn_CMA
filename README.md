@@ -15,6 +15,9 @@ The Client Management Application is designed to streamline the management of cl
 
 ## Getting Started
 
+### To Run
+`npm install`
+
 ### Development Server
 Run `ng serve` for a development server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
